@@ -1,6 +1,6 @@
 # Pokédex - Projeto
 
-![Concluído](https://img.shields.io/badge/status-em%20desenvolvimento-green)
+![Concluído](https://img.shields.io/badge/status-concluido-green)
 ![HTML](https://img.shields.io/badge/html-100%25-orange)
 ![CSS](https://img.shields.io/badge/css-100%25-blue)
 
